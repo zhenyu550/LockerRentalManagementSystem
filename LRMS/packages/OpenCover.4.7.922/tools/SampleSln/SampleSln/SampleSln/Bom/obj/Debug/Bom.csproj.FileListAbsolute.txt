@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\bin\Debug\Bom.dll
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\bin\Debug\Bom.pdb
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\bin\Debug\nunit.framework.dll
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\bin\Debug\nunit.framework.pdb
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\bin\Debug\nunit.framework.xml
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\obj\Debug\Bom.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\obj\Debug\Bom.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\obj\Debug\Bom.csproj.CopyComplete
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\obj\Debug\Bom.dll
+D:\Visual Studio Projects\Workshop1\Locker Rental Management System 2\packages\OpenCover.4.7.922\tools\SampleSln\SampleSln\SampleSln\Bom\obj\Debug\Bom.pdb

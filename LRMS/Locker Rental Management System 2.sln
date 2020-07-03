@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locker Rental Management System 2", "Locker Rental Management System 2\Locker Rental Management System 2.csproj", "{3A69648D-D7D4-4B22-802A-FC9F930272C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A69648D-D7D4-4B22-802A-FC9F930272C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A69648D-D7D4-4B22-802A-FC9F930272C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A69648D-D7D4-4B22-802A-FC9F930272C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A69648D-D7D4-4B22-802A-FC9F930272C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644C3E33-4748-4936-8568-E12F5047DC50}
+	EndGlobalSection
+EndGlobal
